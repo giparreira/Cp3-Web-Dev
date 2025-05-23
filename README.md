@@ -29,7 +29,7 @@ O formulário contém os seguintes campos:
 * Se o campo "categoria" for "vestuário" ele aparecerá normalmente.
 
 
-##Integrantes
+## Integrantes
  -Julia Souza Pompeu 
  -RM: 561955
  -Giovana Rosatti Parreira
