@@ -35,7 +35,7 @@ document.getElementById("formProduto").addEventListener("submit", function(event
         break
     }
   
-    div.textContent = `Produto: ${nome}; R$ ${precoFormatado}; Categoria: ${categoria}.`
+    div.textContent = `Produto: ${nome} - R$ ${precoFormatado} - Categoria: ${categoria}.`
     lista.appendChild(div)
   
     document.getElementById("formProduto").reset()
