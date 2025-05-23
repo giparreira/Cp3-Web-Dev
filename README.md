@@ -30,8 +30,8 @@ O formulário contém os seguintes campos:
 
 
 ## Integrantes
- -Julia Souza Pompeu 
- -RM: 561955
- -Giovana Rosatti Parreira
- -RM: 562275
+ - Julia Souza Pompeu 
+ - RM: 561955
+ - Giovana Rosatti Parreira
+ - RM: 562275
 
